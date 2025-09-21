@@ -9,4 +9,4 @@ Currently on Alpha stage where we are building the foundations with invited user
 Our goals are to provide:
 * Intuitive Visual Modelling for Business Processes and Capibilities, Event Storming and Event Modeling.
 * Real-time Collaboration on the Canvas Boards.
-* Accelaerate Software Development with automated boilerplate code generation.
+* Automated boilerplate code generation to accelerate software development.
